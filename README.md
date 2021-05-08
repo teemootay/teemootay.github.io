@@ -1,1 +1,1 @@
-# teemootay.com
+teemootay.github.io
